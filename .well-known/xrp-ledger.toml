@@ -4,7 +4,7 @@ name = "XRPTEST1"
 
 [[TOKENS]]
 issuer = "rh5eaqZhAwHu2Wdzhm22yFsde9NMvGCGXG"
-currency = "5852505445535431000000000000000000000000"
+currency = "reset"
 name = "XRPTEST1"
 desc = "Test token for XRPL launch process verification."
 icon = "https://e92stealth.github.io/icon.png"
