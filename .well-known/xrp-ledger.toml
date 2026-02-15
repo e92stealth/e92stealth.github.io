@@ -9,13 +9,6 @@ name = "RESET"
 desc = "Test token for XRPL launch process verification."
 icon = "https://e92stealth.github.io/icon.png"
 
-[[TOKENS]]
-issuer = "rh5eaqZhAwHu2Wdzhm22yFsde9NMvGCGXG"
-currency = "XRPTEST1"
-name = "XRPTEST1"
-desc = "Test token."
-icon = "https://e92stealth.github.io/icon.png"
-
 [[TOKENS.URLS]]
 url = "https://e92stealth.github.io"
 type = "website"
@@ -23,4 +16,3 @@ type = "website"
 [[TOKENS.URLS]]
 url = "https://www.tiktok.com/@digitalreset2026"
 type = "social"
-
